@@ -266,3 +266,4 @@ div#links {
     background-color: #9fd3de;
     border-color: #91def5;
 }
+strong[style] { background-color: blue !important; } 
